@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">L2PAccess</string>
+    <string name="heading_application_id">ApplicationID</string>
+    <string name="heading_access_token">Access Token</string>
+    <string name="heading_refresh_token">Refresh Token</string>
+    <string name="button_initiate_oauth_text">Try OAUTH Again?</string>
+    <string name="refresh_token_text">Refreshing Token...</string>
+    <string name="button_access_l2p">Access L2P</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="api_spinner_prompt">Choose an API Function</string>
+    <string-array name="api_function_names">
+        <item>Ping</item>
+        <item>View All Course Info</item>
+    </string-array>
+</resources>

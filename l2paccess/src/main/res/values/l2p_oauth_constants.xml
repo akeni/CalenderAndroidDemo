@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- the following strings are defined according to the RWTH ITC OAUTH documentation
+     https://oauth.campus.rwth-aachen.de/doc/ -->
+    <string name="oauth_device_code">code</string>
+    <string name="oauth_refresh_token">refresh_token</string>
+    <string name="oauth_access_token">access_token</string>
+    <string name="oauth_grant_type">grant_type</string>
+    <string name="oauth_client_id">client_id</string>
+    <string name="oauth_polling_interval">interval</string>
+    <string name="oauth_verification_url">verification_url</string>
+    <string name="oauth_user_code">user_code</string>
+    <string name="oauth_token_expire">expires_in</string>
+    <string name="oauth_token_endpoint">https://oauth.campus.rwth-aachen.de/oauth2waitress/oauth2.svc/token</string>
+    <string name="oauth_token_validation_endpoint">https://oauth.campus.rwth-aachen.de/oauth2waitress/oauth2.svc/tokeninfo</string>
+    <string name="oauth_token_refresh_grant_type">refresh_token</string>
+    <string name="oauth_device_grant_type">device</string>
+    <string name="oauth_endpoint">https://oauth.campus.rwth-aachen.de/oauth2waitress/oauth2.svc/code</string>
+    <string name="oauth_scope_of_acccess">scope</string>
+    <!-- which data service do you want to access? -->
+    <string name="scope_of_access">l2p.rwth campus.rwth l2p2013.rwth</string>
+
+</resources>
